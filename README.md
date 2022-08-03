@@ -1,0 +1,3 @@
+# paintingArm6DOF
+paintingArm6DOFは、ROSなしのOpenCRのみのプログラム
+paintingArmROSは、ROS対応のプログラム
